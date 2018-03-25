@@ -1,0 +1,19 @@
+{
+  "name": "myudemyproject",
+  "version": "1.0.0",
+  "description": "\"# MyUdemyProject\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnetteUlmer/MyUdemyProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnetteUlmer/MyUdemyProject/issues"
+  },
+  "homepage": "https://github.com/AnnetteUlmer/MyUdemyProject#readme"
+}
