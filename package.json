@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AnnetteUlmer/MyUdemyProject/issues"
   },
-  "homepage": "https://github.com/AnnetteUlmer/MyUdemyProject#readme"
+  "homepage": "https://github.com/AnnetteUlmer/MyUdemyProject#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
 }
